@@ -1,0 +1,20 @@
+ToDo's:#########################################################################
+Colli Mist-Plane einfügen
+Kartoffeln hinzufügen
+Tröge anpassen
+alle Verbräuche/Erträge anpassen
+Stroh hinzufügen
+Freilaufgehege hinzufügen
+entityTrigger hinzufügen
+fillTrigger liquid_egg hinzufügen
+(+)optische Füllstandsanzeige liquid_egg
+(+)PDA-Anzeige (sofern dann im UPK verfügbar)
+
+Bugs:###########################################################################
+Hühnerfuttersäcke verschwinden nach laden eines Spielstandes 
+Fehlertext bei "Füllstand erreicht" (Trigger)
+
+Changes:########################################################################
+(AAA_UniversalProcessKit.zip -> modDesc.xml)
++ <l10n> <text name="chickenfeed"> <en>Chickenfeed</en> <de><![CDATA[Hühnerfutter]]></de> </text>
++	<l10n> <text name="liquid_egg"> <en>Liquid Egg</en> <de><![CDATA[Flüssigei]]></de> </text>
